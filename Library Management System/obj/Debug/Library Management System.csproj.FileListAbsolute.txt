@@ -1,0 +1,18 @@
+E:\Visual Studio\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Visual Studio\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Visual Studio\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.LMS.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.About.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.StudentInfo.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.Login.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.ForgetPassword.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.IssueBook.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.Section.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.Books.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.Users.resources
+E:\Visual Studio\Library Management System\Library Management System\obj\Debug\Library_Management_System.ViewReport.resources
